@@ -18,10 +18,7 @@
 			double total = cost + tax;
 			Console.WriteLine($"Total estimate: {total} ");
 			Console.WriteLine("This estamite is valid for 30 days");
-			int X = 10;
-			int Y = 20;
-			Console.WriteLine($"Equation: {X} + {Y} = {X + Y:C}");
-
+			
 		}
 	}
 }
